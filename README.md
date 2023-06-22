@@ -1,5 +1,6 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
+![GitHub_Invertocat_Logo svg](https://github.com/ykdojo/kaguya/assets/137403386/69e890ea-0818-446f-8c94-09f6164d2c9e)
 
 <!-- ![linke3 mackph](https://user-images.githubusercontent.com/71630336/167281758-e4f57b2b-4877-4fea-9706-48099f96b94c.png) -->
 
